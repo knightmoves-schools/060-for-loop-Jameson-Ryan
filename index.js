@@ -1,4 +1,4 @@
-let todos = ['one', 'two', 'three']
+let todos = ['first todo', 'second todo', 'third todo']
 
 function markAsDone() {
   for(let i = 0; i < 4; i++) {
@@ -6,5 +6,6 @@ function markAsDone() {
     return todos;
   }
 }
+
 
 
